@@ -16,7 +16,7 @@
               <div class="columns">
                 <div class="column is-8 is-offset-2">
                   <div class="content is-medium">
-                    <h2 class="subtitle is-4">
+                    <h2 class="subtitle is-4"> huahua4
                       {{ formatDate(post.publicationDate) }}
                     </h2>
                     <h1 class="title">
